@@ -1,0 +1,16 @@
+{
+  "timeZone": "America/Argentina/Buenos_Aires",
+  "dependencies": {},
+  "dataStudio": {
+    "name": "Looker CSV Connector",
+    "logoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKUNP4MmKrSXo3y6oKSCo7J5sOtvSQqTo8nbhpNiZJPlTpH0UOt=s288-c-no",
+    "company": "Andres Allievi",
+    "companyUrl": "https://github.com/garzamorada",
+    "addonUrl": "https://github.com/garzamorada/looker_csv_connector/blob/main/README.md",
+    "supportUrl": "https://github.com/garzamorada/looker_csv_connector",
+    "shortDescription": "Obtener datos de un csv desde una URL",
+    "description": "Obtiene datos separados por coma, punto y coma, tabulador o pipe, con las opciones de  encabezados y texto entre comillas dobles",
+    "authType": ["NONE"],
+    "feeType": ["FREE"]
+  }
+}
