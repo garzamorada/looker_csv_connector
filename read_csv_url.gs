@@ -239,7 +239,6 @@ function csv_to_dict(request, content) {
             for (var j = 0; j < headers.length; j++) {
                 dataRow[headers[j]] = row[j];
             }
-              dataRow['cantidad'] = 1
             dataDictionary.push(dataRow);
         }
 
@@ -276,12 +275,6 @@ function getFields(columnTypes) {
             field.setName(clave);
             field.setId(clave);
         }
-
-      field = fields.newMetric()
-      .setId('cantidad')
-      .setName('cantidad')
-      .setType(types.NUMBER)
-      .setAggregation(aggregations.COUNT);
 
         return fields;
     } catch (error) {
