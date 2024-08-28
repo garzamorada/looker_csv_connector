@@ -11,7 +11,9 @@ El anterior presentaba un problema al ya que ordenaba las columnas alfabeticamen
 
 - Solo esta pensado para numeracio en en_US. Se podria generar un script que detecte el formato latino y elimine los puntos y cambie comas por puntos.
 
-- Tambien habria que contemplar los casos de comillas simples en lugar de dobles. Si alguien tiene ganas de meterle mano me chifla y le paso un poco de lo que aprendi haciendolo.
+- Tambien habria que contemplar los casos de comillas simples en lugar de dobles.
+
+Si alguien tiene ganas de meterle mano me chifla y le paso un poco de lo que aprendi haciendolo.
 
 
 
